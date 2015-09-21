@@ -1,7 +1,7 @@
 {
   "name": "grunt-trackjs",
   "description": "Grunt plugin for TrackJS",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "http://github.com/OhmzTech/grunt-trackjs",
   "author": {
     "name": "OhmzTech",
